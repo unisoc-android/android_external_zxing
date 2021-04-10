@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="msg_default_status">વ્યૂફાઇન્ડર લંબચોરસની અંદર તેને સ્કેન કરવા માટે QR કોડ મુકો</string>
+<string name="msg_camera_framework_bug">માફ કરશો, એન્ડ્રોઇડ કેમેરામાં સમસ્યા ઊભી થઇ છે. તમારે ડિવાઇસને પુનઃશરૂ કરવાની જરૂર રહેશે.</string>
+</resources>
